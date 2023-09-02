@@ -1,0 +1,26 @@
+Notable Features:
+---------------------------
+
+--->Integrating Zapier into Abelling ChatBot.
+--->Collect data & save into Excel Sheet.
+---->Collect Visitor's Name, Contact Number, Email Address, Location Address, Service Name, Company Name & Turn Over as well as store data into excel sheet automatically.
+---->Special Section for NLP Applications, Computer Visions, Industry Use Cases Services, Price & Payments as well as a General Section.
+---->Flow visitors towards his/her needs & if not matching his/her requirments redirect to the General Section by selecting events.
+---->Knowledge Base Answering.
+---->Detecting Visitors native tongue & feedback on that tongue.
+----> Storing the unanswered Questions to table.
+---->Saving Unanswered Questions to table to keep track whether our designed chatbot is failing to relevant questios and client questions.
+
+Integrations:
+-------------------
+AbellingChatBot X Telegram 
+AbellingChatBot X Messenger
+AbellingChatBot X Webchat
+AbellingChatBot X Whastapp
+
+
+Online Link: https://fileproinfo.com/free-viewer/mp4/viewer-app
+
+https://studio.botpress.cloud/2f4ef67d-0eea-4c99-8395-19ad7a8e745d/flows/wf-main
+
+
